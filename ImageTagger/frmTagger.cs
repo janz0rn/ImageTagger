@@ -34,8 +34,8 @@ namespace ImageTagger
 
 			addGroup(new UITagGroup("Viable Body Parts", false, false, onTagChanged, "&Face", "&Boobs", "&Pussy", "&Ass", "&Legs", "F&eet"));
 			addGroup(new UITagGroup("Covering", true, false, onTagChanged, "Fully&Dressed", "HalfD&ressed", "GarmentCovering", "&HandsCovering", "See&Through", "&Naked"));
-			addGroup(new UITagGroup("Action", false, false, onTagChanged, "&Masturbating", "Su&cking", "&Smiling", "&Glaring"));
-			addGroup(new UITagGroup("Other", false, false, onTagChanged, "SideView", "CloseUp", "AllFours", "Piercing"));
+			addGroup(new UITagGroup("Action", false, false, onTagChanged, "&Masturbating", "Su&cking", "&Smiling", "&Glaring", "Masturbation", "CumEating"));
+			addGroup(new UITagGroup("Other", false, false, onTagChanged, "SideView", "CloseUp", "AllFours", "Piercing", "SoloF"));
 			addGroup(new UITagGroup("Text", false, true, onTagChanged, "Garment", "Underwear", "Tattoo", "SexToy", "Furniture"));
 
 		}
